@@ -7,11 +7,11 @@
 name: strapi
 
 # The runtime the application uses.
-type: nodejs:14
+type: nodejs:20
 
 dependencies:
   nodejs:
-    yarn: "1.19.2"
+    yarn: "1.22.19"
 
 # The hooks that will be triggered when the package is deployed.
 hooks:
